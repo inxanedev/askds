@@ -22,6 +22,14 @@ In the example above, DeepSeek only sees the `ls` output, since the `echo` outpu
 
 Requires Rust 1.75+.
 
+Install directly from the repository:
+
+```sh
+cargo install --git https://github.com/inxanedev/askds
+```
+
+Or build from a local checkout:
+
 ```sh
 cargo install --path .
 # or
