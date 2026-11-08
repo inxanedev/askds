@@ -1,16 +1,62 @@
-MIT License
+askds License 1.0
+=================
 
 Copyright (c) 2026 inxanedev
+Original repository: https://github.com/inxanedev/askds
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license lets you use, fork, and modify askds freely, as long as you give
+credit and do not sell it. It is a source-available license, not an OSI-approved
+open source license.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Grant of rights
+
+Subject to the conditions below, you are granted a worldwide, royalty-free,
+non-exclusive license to:
+
+  a. use, copy, and run the Software;
+  b. modify the Software and create derivative works;
+  c. publish, distribute, and sublicense the Software and derivative works,
+     in source or compiled form; and
+  d. use the Software for any purpose, including commercial and internal
+     business purposes.
+
+2. Attribution
+
+Any use, distribution, or public deployment of the Software or a derivative
+work must include a clear and visible link to the original repository:
+
+    https://github.com/inxanedev/askds
+
+The link must appear in the documentation, README, "about" screen, or other
+materials that accompany the Software or the product or service using it. You
+may not remove or obscure this notice or the link in the Software's source
+files. Forks and derivative works must keep this license file and this
+attribution requirement.
+
+3. No resale
+
+You may not sell, resell, rent, lease, or otherwise charge a fee specifically
+for the Software or a derivative work, and you may not bundle the Software as
+a standalone paid product. This restriction does not prevent you from using
+the Software internally, or as part of a larger product or service, provided
+that the Software itself is not the primary item being sold.
+
+4. Redistribution
+
+If you distribute the Software or a derivative work, you must:
+
+  a. include a copy of this license;
+  b. retain all copyright, attribution, and license notices; and
+  c. ensure that any sublicense or downstream distribution is subject to terms
+     no less protective of the original author than this license.
+
+5. No trademark rights
+
+This license does not grant permission to use the name "askds" or the original
+author's name, logo, or branding, except as necessary to comply with the
+attribution requirement.
+
+6. Disclaimer of warranty
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

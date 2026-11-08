@@ -111,4 +111,11 @@ cargo clippy --all-targets -- -D warnings
 
 ## License
 
-MIT
+The [askds License 1.0](LICENSE) — source-available. You may use, fork, and
+modify askds, including for commercial and internal work. You may not sell it or
+bundle it as a standalone paid product, and any use must include a visible link
+to the original repository:
+
+> https://github.com/inxanedev/askds
+
+This is not an OSI-approved open source license.
