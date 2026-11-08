@@ -1,5 +1,8 @@
 # askds
 
+[![crates.io](https://img.shields.io/crates/v/askds.svg)](https://crates.io/crates/askds)
+[![CI](https://github.com/inxanedev/askds/actions/workflows/ci.yml/badge.svg)](https://github.com/inxanedev/askds/actions/workflows/ci.yml)
+
 Ask [DeepSeek](https://www.deepseek.com/) a question about what you are doing in the terminal.
 
 `askds` reads your current terminal scrollback — commands **and their output** — and sends it
@@ -22,7 +25,11 @@ In the example above, DeepSeek only sees the `ls` output, since the `echo` outpu
 
 Requires Rust 1.75+.
 
-Install directly from the repository:
+```sh
+cargo install askds
+```
+
+Or install the latest development version straight from the repository:
 
 ```sh
 cargo install --git https://github.com/inxanedev/askds

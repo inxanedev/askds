@@ -1,6 +1,6 @@
 [package]
 name = "askds"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Ask DeepSeek a question about your current terminal session"
 license-file = "LICENSE"
